@@ -1,6 +1,6 @@
 # gdrive-upload
 
-Foobar is a Python library for dealing with word pluralization.
+Go program for uploading files to Google Drive .
 
 ## Installation
 
@@ -54,4 +54,4 @@ go build
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/ronan696/gdrive-upload/blob/master/LICENSE)
