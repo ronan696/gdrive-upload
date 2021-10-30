@@ -1,6 +1,6 @@
 # gdrive-upload
 
-Go program for uploading files to Google Drive .
+Go program for uploading files to Google Drive.
 
 ## Installation
 
